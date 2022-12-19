@@ -4,6 +4,6 @@ list_c = [3, 70, 7]
 
 for a in list_a:
     for b in list_b:
-        for c in list_c:
+        for c in list_
             if a + b + c == 2077:
                 print(a, b, c)
